@@ -66,6 +66,7 @@ while($true)
     if($er)
     {
 	    New-Backup -Path "$env:APPDATA\EldenRing\" -Extension "*.sl2"
+	    New-Backup -Path "$env:APPDATA\EldenRing\" -Extension "*.co2"
     }
 
     if($bb)
