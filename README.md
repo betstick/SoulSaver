@@ -27,7 +27,7 @@ First, download this repository and extract it somewhere nice.
 Run the included `Register.ps1` script by double clicking on it. Do not run it as administrator!
 
 ## Uninstall:
-Run the included `Remove.ps1` script while logged into the account you installed it to. Alternatively
+Run the included `Remove.ps1` script while logged into the account you installed it to (TODO). Alternatively
 you can delete the scheduled task called `SoulSaver` and delete the files from `%AppData%\SoulSaver\`.
 
 ## Notes:
