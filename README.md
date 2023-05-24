@@ -41,6 +41,9 @@ This tool runs as a scheduled task that begins at login. Upon logging in, you wi
 window open and close. I can't fix this for now. See: https://github.com/PowerShell/PowerShell/issues/3028
 for more information.
 
+You can manually run it if you double click on `Task.ps1`. This window is not hidden and could be used
+for debugging if you want.
+
 ## Issues:
 If you have issues, you can submit an issue to this repo though I might not see it for a little while. You
 can also @ me on ?ServerName? if you want.
