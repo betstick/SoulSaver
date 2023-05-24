@@ -23,6 +23,7 @@ time they were created. To restore a backup, simply rename the file backup file 
 of the original file is.
 
 ## Install:
+First, download this repository and extract it somewhere nice.
 Run the included `Register.ps1` script by double clicking on it. Do not run it as administrator!
 
 ## Uninstall:
