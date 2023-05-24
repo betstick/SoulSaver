@@ -34,6 +34,8 @@ BACKUP YOUR GAME FILES BEFORE USING THIS PROGRAM JUST IN CASE!
 
 You can customize the time by changing the last line of `Task.ps1` where it says `Start-Sleep -Seconds 600`.
 
+Re-running `Register.ps1` will overwrite the existing time setting and restart the script.
+
 This tool runs as a scheduled task that begins at login. Upon logging in, you will breifly see a blue
 window open and close. I can't fix this for now. See: https://github.com/PowerShell/PowerShell/issues/3028
 for more information.
